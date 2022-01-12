@@ -66,22 +66,6 @@ html, body {
 	background-size: cover;	
 }
 
-#logo {
-    margin-bottom: 0px;
-	margin-top: 280px;
-	text-align: center;
-}
-
-#blockchain{
-	margin-top: 100px;
-}
-
-#joker {
-	margin-left: 280px;
-	margin-bottom: 0px;
-	border-radius: 5px;
-}
-
 h1 {
 	font-family: hero-new, sans-serif;
 	font-weight: 600;
@@ -95,82 +79,54 @@ h1 {
 
 h2 {
 	font-family: hero-new, sans-serif;
-	font-weight: 400;
+	font-weight: 1000;
 	font-style: normal;
 	font-size: 1.5em;
-    line-height: 1.2;
+    line-height: 1.8;
 	text-align: center;
     color: rgb(99, 99, 99);
     padding: 0px 50px;
     margin: 0px auto 120px auto;
-	margin-bottom: 400px;
+	margin-bottom: 25px;
 }
 
 h3 {
 	font-family: hero-new, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 1.2em;
-    line-height: 1.8;
+	font-weight: 600;
+	font-style: normal;	
+	font-size: 2em;
 	text-align: left;
+	padding: 0px 50px;
+    margin: 0px auto 20px auto;
+	margin-bottom: 50px;
     color: rgb(0, 0, 0);
-    padding: 0px 0px;
-    margin: 0px auto 0px auto;
-	margin-left: 20px;
 }
 
 h4 {
 	font-family: hero-new, sans-serif;
-	font-weight: 400;
+	font-weight: 1000;
 	font-style: normal;
-	font-size: 1.2em;
-    line-height: 1.8;
-	text-align: center;
-    color: rgb(0, 0, 0);
-    padding: 0px 0px;
-    margin: 50px auto 100px auto;
-	margin-right: 0px;
-	margin-top: 300px;
+	font-size: 1.5em;
+    line-height: 1.2;
+	text-align: left;
+    color: rgb(99, 99, 99);
+    padding: 0px 50px;
+    margin: 0px auto 120px auto;
+	margin-bottom: 25px;
 }
 
 h5 {
 	font-family: hero-new, sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 1.5em;
-    line-height: 1.4;
-	text-align: center;
-    color: rgb(99, 99, 99);
-    padding: 0px 0px;
-    margin: 0px auto 70px auto;
-}
-
-h6 {
-	font-family: hero-new, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 1.2em;
-    line-height: 1.8;
-	text-align: right;
-    color: rgb(0, 0, 0);
-    padding: 50px 0px;
-    margin: 0px auto 0px auto;
-	margin-left: 200px;
-	margin-right: 10px;
-}
-
-h7 {
-	font-family: hero-new, sans-serif;
-	font-weight: 400;
-	font-style: normal;
 	font-size: 1.2em;
     line-height: 1.8;
 	text-align: left;
     color: rgb(0, 0, 0);
-    padding: 0px 0px;
+    padding: 0px 50px;
     margin: 0px auto 0px auto;
-	margin-right: 0px;
-	margin-left: 10px;
+	margin-left: 0px;
+	margin-bottom: 80px;
 }
 
 p {
@@ -181,7 +137,7 @@ p {
     line-height: 1.6;
 	text-align: bottom;
 	margin-bottom: 0px;
-	margin-top: 300px;
+	margin-top: 200px;
     color: rgb(0, 0, 0);
 }
 
@@ -241,21 +197,45 @@ a:hover{
 	border-radius: 5px;
 }
 
+#logo {
+    margin-bottom: 20px;
+	margin-top: 280px;
+	text-align: center;
+}
+
+.buy{
+	margin-top: 150px;
+	margin-left: 0%;
+}
+
+#buy{
+	text-align: left;
+}
+
+#rocket_3 {
+	margin-left: 50px;
+}
+
+#joker {
+	margin-left: 0px;
+	margin-top: 200px;
+	margin-bottom: 100px;
+	border-radius: 5px;
+}
+
+.joker{
+	align-items: center;
+}
+
 .wrapper {
 	display: grid;
 	align-items: center;
+	align-content: center;
 	grid-template-columns: repeat(3,1.2fr);
 	grid-auto-rows: 45%;
 	grid-column-gap: 20px;
 	grid-row-gap: 20px;
-}
-
-.wrapper2 {
-	display: grid;
-	align-items: center;
-	grid-template-columns: repeat(3,1.2fr);
-	grid-auto-rows: 20%;
-	grid-column-gap: 0px;
-	grid-row-gap: 0px;
-	margin-top: 300px;
+	margin-top: 0px;
+	margin-left: 330px;
+	margin-bottom: 100px;
 }
