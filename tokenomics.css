@@ -66,86 +66,7 @@ html, body {
 	background-size: cover;	
 }
 
-#logo {
-    margin-bottom: 0px;
-	margin-top: 280px;
-	text-align: center;
-}
-
-#blockchain{
-	margin-top: 100px;
-}
-
-#joker {
-	margin-left: 280px;
-	margin-bottom: 0px;
-	border-radius: 5px;
-}
-
 h1 {
-	font-family: hero-new, sans-serif;
-	font-weight: 600;
-	font-style: normal;	
-	font-size: 2em;
-	text-align: center;
-    margin: 0px auto 20px auto;
-	margin-bottom: 50px;
-    color: rgb(0, 0, 0);
-}
-
-h2 {
-	font-family: hero-new, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 1.5em;
-    line-height: 1.2;
-	text-align: center;
-    color: rgb(99, 99, 99);
-    padding: 0px 50px;
-    margin: 0px auto 120px auto;
-	margin-bottom: 400px;
-}
-
-h3 {
-	font-family: hero-new, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 1.2em;
-    line-height: 1.8;
-	text-align: left;
-    color: rgb(0, 0, 0);
-    padding: 0px 0px;
-    margin: 0px auto 0px auto;
-	margin-left: 20px;
-}
-
-h4 {
-	font-family: hero-new, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 1.2em;
-    line-height: 1.8;
-	text-align: center;
-    color: rgb(0, 0, 0);
-    padding: 0px 0px;
-    margin: 50px auto 100px auto;
-	margin-right: 0px;
-	margin-top: 300px;
-}
-
-h5 {
-	font-family: hero-new, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: 1.5em;
-    line-height: 1.4;
-	text-align: center;
-    color: rgb(99, 99, 99);
-    padding: 0px 0px;
-    margin: 0px auto 70px auto;
-}
-
-h6 {
 	font-family: hero-new, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -159,7 +80,7 @@ h6 {
 	margin-right: 10px;
 }
 
-h7 {
+h2 {
 	font-family: hero-new, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -173,6 +94,19 @@ h7 {
 	margin-left: 10px;
 }
 
+h3 {
+	font-family: hero-new, sans-serif;
+	font-weight: 200;
+	font-style: normal;
+	font-size: 1em;
+    line-height: 1.2;
+	text-align: center;
+    color: rgb(99, 99, 99);
+    padding: 0px 50px;
+    margin: 0px auto 120px auto;
+	margin-bottom: 10px;
+}
+
 p {
 	font-family: hero-new-hairline, sans-serif;
 	font-weight: 100;
@@ -180,8 +114,8 @@ p {
 	font-size: 1.2em;
     line-height: 1.6;
 	text-align: bottom;
-	margin-bottom: 0px;
-	margin-top: 300px;
+	margin-bottom: 5%;
+	margin-top: 150px;
     color: rgb(0, 0, 0);
 }
 
