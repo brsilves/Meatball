@@ -280,7 +280,7 @@ a:hover{
 	margin-bottom: 0px;
 }
 
-@media (max-width: 720px){
+@media (max-width: 1284px){
 
 	.wrapper {
 		display: grid;
